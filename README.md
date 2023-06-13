@@ -1,6 +1,6 @@
 <h1 align="center">Hey There 👋, I'm I'm S SriSumukha</h1>
 <h3 align="center">A Machine-Learning and Web Development Enthusiast</h3>
-<img align='right' width='400' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3v-6SbH_Q9DfyVdmyJeLqd&ust=1686762807368000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjU7KHfwP8CFQAAAAAdAAAAABAE'>
+<img alt="Coder GIF" height=250 align='right' width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumukha87&label=Profile%20views&color=0e75b6&style=flat" alt="sumukha87" /> </p>
 
