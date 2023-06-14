@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumukha87&label=Profile%20views&color=0e75b6&style=flat" alt="sumukha87" /> </p>
 
-- 🔭 I’m currently working on **Shre-IT**
+- 🔭 I’m currently working on **TensorFlow**
 
 - 🌱 I’m currently learning **Next.js,TensorFlow,Scikitlearn**
 
