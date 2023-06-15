@@ -27,7 +27,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumukha87&show_icons=true&locale=en" alt="sumukha87" /></p>
+--
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumukha87&" alt="sumukha87" /></p>
-
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sumukha87&theme=dark&background=000000)](https://git.io/streak-stats)
