@@ -32,7 +32,7 @@
 <details>
   <summary><h3>:bulb:Click to know about my Github Stats</h3></summary>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumukha87&theme=tokyonight)](https://github.com/ardaltunel/github-readme-stats)
+  
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumukha87&show_icons=true&theme=tokyonight)
 
